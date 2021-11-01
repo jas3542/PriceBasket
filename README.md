@@ -9,4 +9,5 @@
 
 # Bugs:
 - Offers are not adding the currency symbol (p for pennys and £ for pounds).
+- Bins offer with multiple loafs of bread is not working. (because of the condition where we do tins==2)
 
