@@ -1,0 +1,13 @@
+C:\Users\Jas\Documents\_visualStudio_projects\PriceBasket\PriceBasket\bin\Debug\netcoreapp3.1\PriceBasket.exe
+C:\Users\Jas\Documents\_visualStudio_projects\PriceBasket\PriceBasket\bin\Debug\netcoreapp3.1\PriceBasket.deps.json
+C:\Users\Jas\Documents\_visualStudio_projects\PriceBasket\PriceBasket\bin\Debug\netcoreapp3.1\PriceBasket.runtimeconfig.json
+C:\Users\Jas\Documents\_visualStudio_projects\PriceBasket\PriceBasket\bin\Debug\netcoreapp3.1\PriceBasket.runtimeconfig.dev.json
+C:\Users\Jas\Documents\_visualStudio_projects\PriceBasket\PriceBasket\bin\Debug\netcoreapp3.1\PriceBasket.dll
+C:\Users\Jas\Documents\_visualStudio_projects\PriceBasket\PriceBasket\bin\Debug\netcoreapp3.1\PriceBasket.pdb
+C:\Users\Jas\Documents\_visualStudio_projects\PriceBasket\PriceBasket\obj\Debug\netcoreapp3.1\PriceBasket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jas\Documents\_visualStudio_projects\PriceBasket\PriceBasket\obj\Debug\netcoreapp3.1\PriceBasket.AssemblyInfoInputs.cache
+C:\Users\Jas\Documents\_visualStudio_projects\PriceBasket\PriceBasket\obj\Debug\netcoreapp3.1\PriceBasket.AssemblyInfo.cs
+C:\Users\Jas\Documents\_visualStudio_projects\PriceBasket\PriceBasket\obj\Debug\netcoreapp3.1\PriceBasket.csproj.CoreCompileInputs.cache
+C:\Users\Jas\Documents\_visualStudio_projects\PriceBasket\PriceBasket\obj\Debug\netcoreapp3.1\PriceBasket.dll
+C:\Users\Jas\Documents\_visualStudio_projects\PriceBasket\PriceBasket\obj\Debug\netcoreapp3.1\PriceBasket.pdb
+C:\Users\Jas\Documents\_visualStudio_projects\PriceBasket\PriceBasket\obj\Debug\netcoreapp3.1\PriceBasket.genruntimeconfig.cache
